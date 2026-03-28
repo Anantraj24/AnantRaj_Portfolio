@@ -59,10 +59,3 @@ This will compile the TypeScript code and bundle the assets into the `dist` dire
 npm run preview
 ```
 
-## 📜 License
-
-This project is open-source and available under the MIT License. You are free to use, modify, and distribute the code as you wish.
-
----
-
-*Designed and developed by Anant Raj.*
