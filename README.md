@@ -1,4 +1,4 @@
-# Anant Raj - Marketing Student Portfolio
+# Anant Raj 
 
 Welcome to the source code for my interactive portfolio website! This project is a visually immersive, 3D-driven personal portfolio built with React, Vite, and Three.js. It highlights my marketing background and projects through an engaging, interactive web experience.
 
